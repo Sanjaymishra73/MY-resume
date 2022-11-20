@@ -1,0 +1,26 @@
+body{
+  background:powderblue;
+}
+h1{
+  color: blue;
+}
+h2{
+
+  color: red;
+}
+h3{
+  color: green;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#405d27;
+  border-width: 10px;
+  width: 5%
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
